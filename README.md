@@ -12,6 +12,4 @@
   
  Discriminant Analyisis (Análise de Discriminante)
  
- Análise de Perfil
- 
  Profile Analysis (Análise de Perfil)
